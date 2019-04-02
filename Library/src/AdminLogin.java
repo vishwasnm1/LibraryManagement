@@ -118,4 +118,4 @@ public class AdminLogin extends JFrame {
 		);
 		contentPane.setLayout(gl_contentPane);
 	}
-} //EOF
+}
